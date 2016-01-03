@@ -1,0 +1,10 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "description": "Logs the project status based on the settings of logging.",
+   "main": "lib/app.js",
+   "directories": {
+     "example": "example",
+     "properties": "properties"
+   }
+}
