@@ -1,43 +1,88 @@
-Sun Jan 03 2016 19:13:19 :index.js:tests():7:WARN : WARNING message
-Sun Jan 03 2016 19:13:23 :index.js:tests():4:INFO : INFO message
-Sun Jan 03 2016 19:13:23 :index.js:tests():5:WARN : WARNING message
-Sun Jan 03 2016 19:13:23 :index.js:tests():6:INFO : INFO message
-Sun Jan 03 2016 19:13:23 :index.js:tests():7:WARN : WARNING message
-Sun Jan 03 2016 19:13:23 :index.js:tests():8:ERROR : ERROR message:Error
-    at EventEmitter.<anonymous> (E:\GitHub\NodeProjects2016\logging\lib\app.js:25:29)
+Mon Jan 04 2016 15:37:35 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:37:39 :index.js:tests():4:INFO : INFO message
+Mon Jan 04 2016 15:37:39 :index.js:tests():5:WARN : WARNING message
+Mon Jan 04 2016 15:37:39 :index.js:tests():6:INFO : INFO message
+Mon Jan 04 2016 15:37:39 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:37:39 :index.js:tests():8:ERROR : ERROR message:Error
+    at EventEmitter.<anonymous> (E:\GitHub\logging\lib\app.js:25:29)
     at EventEmitter.emit (events.js:107:17)
-    at tests (E:\GitHub\NodeProjects2016\logging\example\index.js:8:13)
-    at Object.<anonymous> (E:\GitHub\NodeProjects2016\logging\example\index.js:11:1)
+    at tests (E:\GitHub\logging\example\index.js:8:13)
+    at Object.<anonymous> (E:\GitHub\logging\example\index.js:11:1)
     at Module._compile (module.js:460:26)
     at Object.Module._extensions..js (module.js:478:10)
     at Module.load (module.js:355:32)
     at Function.Module._load (module.js:310:12)
     at Function.Module.runMain (module.js:501:10)
     at startup (node.js:129:16)
-Sun Jan 03 2016 19:13:25 :index.js:tests():4:INFO : INFO message
-Sun Jan 03 2016 19:13:25 :index.js:tests():5:WARN : WARNING message
-Sun Jan 03 2016 19:13:25 :index.js:tests():6:INFO : INFO message
-Sun Jan 03 2016 19:13:25 :index.js:tests():7:WARN : WARNING message
-Sun Jan 03 2016 19:13:25 :index.js:tests():8:ERROR : ERROR message:Error
-    at EventEmitter.<anonymous> (E:\GitHub\NodeProjects2016\logging\lib\app.js:25:29)
+Mon Jan 04 2016 15:39:22 :index.js:tests():4:INFO : INFO message
+Mon Jan 04 2016 15:39:22 :index.js:tests():6:INFO : INFO message
+Mon Jan 04 2016 15:39:22 :index.js:tests():5:WARN : WARNING message
+Mon Jan 04 2016 15:39:22 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:39:22 :index.js:tests():8:ERROR : ERROR message:Error
+    at EventEmitter.<anonymous> (E:\GitHub\logging\lib\app.js:25:29)
     at EventEmitter.emit (events.js:107:17)
-    at tests (E:\GitHub\NodeProjects2016\logging\example\index.js:8:13)
-    at Object.<anonymous> (E:\GitHub\NodeProjects2016\logging\example\index.js:11:1)
+    at tests (E:\GitHub\logging\example\index.js:8:13)
+    at Object.<anonymous> (E:\GitHub\logging\example\index.js:11:1)
     at Module._compile (module.js:460:26)
     at Object.Module._extensions..js (module.js:478:10)
     at Module.load (module.js:355:32)
     at Function.Module._load (module.js:310:12)
     at Function.Module.runMain (module.js:501:10)
     at startup (node.js:129:16)
-Sun Jan 03 2016 19:13:26 :index.js:tests():4:INFO : INFO message
-Sun Jan 03 2016 19:13:26 :index.js:tests():5:WARN : WARNING message
-Sun Jan 03 2016 19:13:26 :index.js:tests():6:INFO : INFO message
-Sun Jan 03 2016 19:13:26 :index.js:tests():7:WARN : WARNING message
-Sun Jan 03 2016 19:13:26 :index.js:tests():8:ERROR : ERROR message:Error
-    at EventEmitter.<anonymous> (E:\GitHub\NodeProjects2016\logging\lib\app.js:25:29)
+Mon Jan 04 2016 15:39:26 :index.js:tests():4:INFO : INFO message
+Mon Jan 04 2016 15:39:26 :index.js:tests():5:WARN : WARNING message
+Mon Jan 04 2016 15:39:26 :index.js:tests():6:INFO : INFO message
+Mon Jan 04 2016 15:39:26 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:39:26 :index.js:tests():8:ERROR : ERROR message:Error
+    at EventEmitter.<anonymous> (E:\GitHub\logging\lib\app.js:25:29)
     at EventEmitter.emit (events.js:107:17)
-    at tests (E:\GitHub\NodeProjects2016\logging\example\index.js:8:13)
-    at Object.<anonymous> (E:\GitHub\NodeProjects2016\logging\example\index.js:11:1)
+    at tests (E:\GitHub\logging\example\index.js:8:13)
+    at Object.<anonymous> (E:\GitHub\logging\example\index.js:11:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+Mon Jan 04 2016 15:39:29 :index.js:tests():4:INFO : INFO message
+Mon Jan 04 2016 15:39:29 :index.js:tests():5:WARN : WARNING message
+Mon Jan 04 2016 15:39:29 :index.js:tests():6:INFO : INFO message
+Mon Jan 04 2016 15:39:29 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:39:29 :index.js:tests():8:ERROR : ERROR message:Error
+    at EventEmitter.<anonymous> (E:\GitHub\logging\lib\app.js:25:29)
+    at EventEmitter.emit (events.js:107:17)
+    at tests (E:\GitHub\logging\example\index.js:8:13)
+    at Object.<anonymous> (E:\GitHub\logging\example\index.js:11:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+Mon Jan 04 2016 15:39:30 :index.js:tests():4:INFO : INFO message
+Mon Jan 04 2016 15:39:30 :index.js:tests():5:WARN : WARNING message
+Mon Jan 04 2016 15:39:30 :index.js:tests():6:INFO : INFO message
+Mon Jan 04 2016 15:39:30 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:39:30 :index.js:tests():8:ERROR : ERROR message:Error
+    at EventEmitter.<anonymous> (E:\GitHub\logging\lib\app.js:25:29)
+    at EventEmitter.emit (events.js:107:17)
+    at tests (E:\GitHub\logging\example\index.js:8:13)
+    at Object.<anonymous> (E:\GitHub\logging\example\index.js:11:1)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+Mon Jan 04 2016 15:39:32 :index.js:tests():4:INFO : INFO message
+Mon Jan 04 2016 15:39:32 :index.js:tests():5:WARN : WARNING message
+Mon Jan 04 2016 15:39:32 :index.js:tests():6:INFO : INFO message
+Mon Jan 04 2016 15:39:32 :index.js:tests():7:WARN : WARNING message
+Mon Jan 04 2016 15:39:32 :index.js:tests():8:ERROR : ERROR message:Error
+    at EventEmitter.<anonymous> (E:\GitHub\logging\lib\app.js:25:29)
+    at EventEmitter.emit (events.js:107:17)
+    at tests (E:\GitHub\logging\example\index.js:8:13)
+    at Object.<anonymous> (E:\GitHub\logging\example\index.js:11:1)
     at Module._compile (module.js:460:26)
     at Object.Module._extensions..js (module.js:478:10)
     at Module.load (module.js:355:32)

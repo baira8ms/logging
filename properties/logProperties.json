@@ -1,7 +1,7 @@
 {
 "level":"ERROR",
-"savedToFile":"Yes",
+"savedToFile":true,
 "fileLocation":"/../",
 "logFileName":"application.log",
-"maxFileSizeInBytes":"10000"
+"maxFileSizeInBytes":10000
 }
