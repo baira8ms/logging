@@ -1,10 +1,24 @@
 {
   "name": "logging",
   "version": "1.0.0",
-  "description": "Logs the project status based on the settings of logging.",
-   "main": "lib/app.js",
-   "directories": {
-     "example": "example",
-     "properties": "properties"
-   }
+  "description": "Logs the project execution status",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevi248/logging.git"
+  },
+  "keywords": [
+    "logging",
+    "logger",
+    "log"
+  ],
+  "author": "Jeevi <Jeevi248@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevi248/logging/issues"
+  },
+  "homepage": "https://github.com/jeevi248/logging#readme"
 }
