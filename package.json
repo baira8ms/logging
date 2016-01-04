@@ -1,6 +1,6 @@
 {
   "name": "log-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logs the project execution status",
   "main": "lib/app.js",
   "scripts": {
