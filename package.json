@@ -16,7 +16,7 @@
     "log"
   ],
   "author": "Jeevi <Jeevi248@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeevi248/logging/issues"
   },
