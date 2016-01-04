@@ -1,6 +1,6 @@
 {
   "name": "log-message",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Logs the project execution status",
   "main": "lib/app.js",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/jeevi248/logging/issues"
   },
-  "homepage": "https://github.com/jeevi248/logging#readme"
+  "homepage": "https://github.com/jeevi248/logging#readme",
+  "dependencies": {}
 }
