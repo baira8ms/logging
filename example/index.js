@@ -1,11 +1,9 @@
-var loggerEvent = require("../lib/app.js");
+var log = require("../lib/app.js");
 
 var tests = function(){
-loggerEvent.emit("INFO","INFO message");
-loggerEvent.emit("WARN","WARNING message");
-loggerEvent.emit("INFO","INFO message");
-loggerEvent.emit("WARN","WARNING message");
-loggerEvent.emit("ERROR","ERROR message");
+log.warn("hello warn");
+log.info("hello info");
+log.error("hello error");
 }
 
 tests();

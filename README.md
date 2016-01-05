@@ -11,11 +11,11 @@ $ npm i --save log-message
 ## Example
 
 ```js
-const loggerEvent = require("log-message");
+const log = require("log-message");
 
-loggerEvent.emit("INFO","INFO message");
-loggerEvent.emit("WARN","WARNING message");
-loggerEvent.emit("ERROR","ERROR message");
+log.info("INFO message");
+log.warn("WARNING message");
+log.error("ERROR message");
 ```
 
 ## Documentation
