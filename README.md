@@ -49,7 +49,7 @@ Enabling the logging includes below steps
 
 
  3. Enable the options in the `logProperties.json` file according to the log options.
- 4. Add the logging emits where ever required in your project code (e.g. `loggerEvent.emit("INFO","INFO message")`).
+ 4. Add the logging emits where ever required in your project code (e.g. `log.info("INFO message")`).
  5. Run your node project and then see the magic log statements in the console and in the file as well (if that was configured).
 
 ## How to contribute
